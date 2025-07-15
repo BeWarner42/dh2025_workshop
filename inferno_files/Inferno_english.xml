@@ -129,7 +129,7 @@
             <lg n="15" xml:id="lg015">
                <l n="43">Great grief seized on my heart when this I heard,</l>
                <l n="44">Because some people of much worthiness</l>
-               <l n="45">I knew, who in that Limbo were suspended.</l>
+               <l n="45">I knew, who in that <placeName>Limbo</placeName> were suspended.</l>
             </lg>
 
             <lg n="16" xml:id="lg016">
@@ -151,7 +151,7 @@
             </lg>
 
             <lg n="19" xml:id="lg019">
-               <l n="55">Hence he drew forth the shade of the First Parent,</l>
+               <l n="55">Hence he drew forth the shade of the <persName>First Parent</persName>,</l>
                <l n="56">And that of his son <persName>Abel</persName>, and of <persName type="fictional">Noah</persName>,</l>
                <l n="57">Of Moses the lawgiver, and the obedient</l>
             </lg>
